@@ -30,7 +30,7 @@
 
 ## العرض التقديمي | Presentation
 - قم بتحميل النموذج من الرابط التالي لمشاهدة التصميم على Figma:  
-[مشاهدة النموذج](#) *(ضع الرابط هنا إذا كان موجودًا)*
+[مشاهدة النموذج](#) *([ا](https://www.figma.com/design/XMEcZVpFTbqggCnFtwggl1/Graduation-pr?node-id=272-24501&node-type=frame&t=tjvITLt2wp54YFQd-0))*
 
 ---
 
